@@ -1,0 +1,25 @@
+{
+  "short_name": "PostGram",
+  "name": "PostGram",
+  "icons": [
+    {
+      "src": "postgram-32px.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "postgram-192px.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "postgram-512px.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#18D4E4"
+}
