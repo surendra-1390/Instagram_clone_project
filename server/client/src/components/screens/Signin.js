@@ -91,7 +91,7 @@ const Signin = ()=>{
                     : <div align="center"><CircularProgress /></div>
                 }
                 <h6 style={{marginTop:"25px"}}>Don't have an Account? <Link to='/signup'>Register</Link></h6>
-                <p><Link to="/reset" >Forgot Password?</Link></p>           
+                         
             </div>
         </div>
     )
